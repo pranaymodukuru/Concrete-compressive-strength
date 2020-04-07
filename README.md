@@ -26,7 +26,7 @@ https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
 * Coarse Aggregate
 * Fine Aggregate
 
-All above features measured in kg in $m^3$
+All above features measured in kg/$m^3$
 
 * Age (in days)
 
@@ -46,11 +46,11 @@ All above features measured in kg in $m^3$
 
 ## 4. Results
 
-* Feature correlation
+* [Feature correlation](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/corr.png)
 
-* Feature importance
+* [Feature importance](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/feat_imp.png)
 
-* Final Comparison
+* [Final Comparison](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/comparision.png)
 
 
 ## 5. References
